@@ -1,5 +1,5 @@
 # markdown header
 
-foo text
+paragraph text
 
 - list
