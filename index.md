@@ -1,3 +1,5 @@
+omg conflict!
+
 # markdown header
 
 paragraph text
